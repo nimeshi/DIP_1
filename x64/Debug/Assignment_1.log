@@ -1,0 +1,4 @@
+﻿  Assignment_1.cpp
+d:\academic\dip\lab\assignment\assignment_1\assignment_1\assignment_1.cpp(18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\academic\dip\lab\assignment\assignment_1\assignment_1\assignment_1.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment_1.vcxproj -> D:\Academic\DIP\Lab\Assignment\Assignment_1\x64\Debug\Assignment_1.exe
